@@ -1,0 +1,23 @@
+{
+  "name": "personality-quiz-api-project",
+  "version": "1.0.0",
+  "description": "This is a tutorial from @WebDevOfficial's Instagram that teaches developers about APIs. The project is a personality quiz that uses information from an API to get the result of the one question quiz. It utilizes HTML,CSS, and JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
